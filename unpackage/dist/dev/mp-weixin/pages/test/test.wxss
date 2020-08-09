@@ -1,0 +1,22 @@
+
+.status_bar{
+	height: 25px;
+	width: 100%;
+	background-color: #007AFF;
+}
+.title{
+	display: block;
+	font-size: 24px;
+	font-weight: 700;
+	margin: 20px 0;
+}
+.box{
+	width: 80%;
+	height: 50px;
+	background-color: #4CD964;
+	margin: 0 auto;
+}
+.box2{
+	background-color: skyblue;
+}
+
